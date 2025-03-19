@@ -24,6 +24,7 @@ The **Boardoza SM351LT** is a high-sensitivity **magnetoresistive sensor module*
 
 **Model:** Honeywell SM351LT  
 **Voltage Supply:** 3.3V - 5V  
+**Voltage Input Type:** 3-pin 2.50mm header  
 **Current Consumption:** 150µA  
 **Sensor Type:** Magnetoresistive Sensor  
 **Output Type:** Push-Pull (No external pull-up required)  
