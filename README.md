@@ -13,9 +13,10 @@ The **Boardoza SM351LT** is a high-sensitivity **magnetoresistive sensor module*
 ## Key Features
 
 - **Lid, Door, and Drawer Position Detection:** Detects open/closed states using a magnet.  
+- **Non-Contact Operation:** Works through non-metallic surfaces, making it ideal for sealed enclosures.  
 - **Omnipolar Sensing:** Responds to both north and south poles of a magnet for flexible placement.  
-- **Push-Pull Output:** Eliminates the need for an external pull-up resistor.  
-- **Power Good LED (D1) and Output Indicator LED (D2):** Provides visual feedback for sensor status.  
+- **Push-Pull Output:** Built-in driver circuit eliminates the need for an external pull-up resistor.  
+- **Dual LED Indicators:** Includes **Power Good LED (D1)** and **Output Indicator LED (D2)** for real-time status feedback.  
 
 ---
 
